@@ -1,0 +1,145 @@
+
+.brand-logo{
+    margin-left: 1em;
+}
+
+#sidenav-overlay{
+    left: 300px;
+    animation: animateMenu 0.3s;
+}
+@keyframes animateMenu{ from{left:0} to{left:300px} }
+
+.modal .modal-footer{
+    text-align: center;
+}
+
+.preloader-container{
+    height: 50%;
+}
+
+.preloader-center{
+    margin: 0 auto;
+}
+
+.preloader-left{
+    margin-left: 25px;
+    top: 20px;
+}
+
+.circle-clipper .circle{
+    border-width: 5px;
+}
+
+.toast{
+    background-color: #b71c1c;
+}
+.toast .toast-action{
+    color: #9ccc65;
+}
+
+.animate-div {
+    position: relative;
+    animation: animateEnterLeft 0.4s;
+}
+@keyframes animateEnterLeft{ from{left:-2000px} to{left:0} }
+
+.header-div{
+    display: inline-flex;
+    display: -webkit-box;
+    margin-top: 5px;
+}
+
+.back-btn{
+    border: 1px solid #0D47A1;
+    box-shadow: none;
+}
+.back-btn:hover{
+    border: none;
+}
+
+.header-text{
+    margin-left: 20px;
+}
+
+.collection a.collection-item{
+    color: #0D47A1;
+}
+
+.collection .collection-item.active{
+    background-color: #0D47A1;
+}
+
+span.badge{
+    float: none;
+}
+
+span.badge.new:after{
+    content: none;
+}
+
+.input_div{
+    position: relative;
+    z-index: 999;
+    margin: 0 auto;
+    padding: 0 10px 0 25px;
+    border-radius: 48px;
+    border: 1px solid #0D47A1;
+    box-shadow: 0 0 18px rgba(0,0,0,0.5);
+}
+
+/* label focus color */
+.input-field input[type=text]:focus + label,
+.input-field input[type=password]:focus + label,
+textarea:focus + label,
+input[type=text]:not(.browser-default):focus:not([readonly]) + label,
+input[type=password]:not(.browser-default):focus:not([readonly]) + label,
+textarea:not(.browser-default):focus:not([readonly]) + label{
+    color: #0D47A1;
+}
+
+/* label underline focus color */
+.input-field input[type=text]:focus,
+.input-field input[type=password]:focus,
+textarea:focus,
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+textarea:not(.browser-default):focus:not([readonly]){
+    border-bottom: 1px solid #0D47A1;
+    box-shadow: 0 1px 0 0 #0D47A1;
+}
+
+.display-none{
+    display: none !important;
+}
+
+.dropdown-content li>a, .dropdown-content li>span{
+    color: #0D47A1;
+}
+
+.justify-text{
+    text-align: justify !important;
+}
+
+.about{
+    line-height: 22px;
+    text-align: justify;
+}
+
+#delete-btn:hover {
+    animation: shake 0.8s;
+    animation-iteration-count: infinite;
+}
+@keyframes shake {
+    10%, 90% {transform: translate3d(-1px, 0, 0);}
+    20%, 80% {transform: translate3d(2px, 0, 0);}
+    30%, 50%, 70% {transform: translate3d(-4px, 0, 0);}
+    40%, 60% {transform: translate3d(4px, 0, 0);}
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+img{
+    display: none;
+}
