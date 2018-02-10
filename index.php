@@ -67,10 +67,9 @@
 <div id="intro_modal" class="modal">
     <div class="modal-content justify-text">
         <h4 class="blue-text text-darken-4">CONTRIBUTE with BB Dataset Collection</h4>
-        
-        <blockquote class='left-align red-text'>Note: You are redirected to official and secure site - 
-            <a href='https://bbdc2.000webhostapp.com'>https://bbdc2.000webhostapp.com</a> 
-            from shorten url - <a href='http://bbdc.22web.org'>http://bbdc.22web.org</a>
+
+        <blockquote class='left-align red-text'>Note: You are redirected to official and optimized site -
+            <a href='http://52.89.235.173'>52.89.235.173</a>
         </blockquote>
 
         <p> A BBDC is collecting the Dataset to make the machines smarter and better
