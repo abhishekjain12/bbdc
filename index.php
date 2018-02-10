@@ -120,7 +120,7 @@
     <div class="container grey-text">
         <br />
         © 2018 YARD
-        <span class="right">Build 2018.2.4-2</span>
+        <span class="right">Build 2018.2.10</span>
     </div>
 </div>
 

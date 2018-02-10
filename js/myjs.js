@@ -87,6 +87,8 @@ function deletePattern() {
     var preloader = $("#preloader");
     var list_div = $("#list");
 
+    $("delete-btn").addClass("display-none");
+
     preloader.removeClass("display-none");
     list_div.addClass("display-none");
 
