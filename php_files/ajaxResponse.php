@@ -193,7 +193,7 @@ elseif ($_POST['id'] == 'pattern_name'){ ?>
 
 elseif ($_POST['id'] == 'input_pattern'){
     $checker = false;
-    $check_file = fopen("../pattern_dir/". $_POST['table_name'] ."/". $_POST['filename'],"r");
+    $check_file = fopen("../pattern_dir/". $_POST['table_name'] ."/". $_POST['filename'],"r") or die("<script>Materialize.toast('Failed to submit. Retry!', 4000)</script>");
 
     while(! feof($check_file))
     {
