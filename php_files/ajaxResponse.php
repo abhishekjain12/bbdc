@@ -468,17 +468,19 @@ elseif ($_POST['id'] == 'admin_file_list_2'){
 elseif ($_POST['id'] == 'admin_file_data'){
 
     $file_path = "../pattern_dir/". $_POST['table_name'] ."/". $_POST['filename'];
-    $myfile = fopen($file_path, "r") or die("<script>Materialize.toast('Failed to read!', 4000)</script>");
-
 
     if (filesize($file_path) == 0){
         echo "";
     }
     else{
-        echo fread($myfile, filesize($file_path));
+        $file =file($file_path) or die("<script>Materialize.toast('Failed to submit. Retry!', 4000)</script>");
+        $data = array_slice($file, -20);
+
+        foreach (array_reverse($data) as $line) {
+            echo($line);
+        }
     }
 
-    fclose($myfile);
 }
 
 elseif ($_POST['id'] == 'update_file_data'){
