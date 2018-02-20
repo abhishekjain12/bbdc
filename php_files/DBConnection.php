@@ -7,9 +7,9 @@
  */
 
     $dbhost = 'localhost';
-    $dbuser = '';
-    $dbpass = '';
-    $dbname = '';
+    $dbuser = 'root';
+    $dbpass = 'Paa@0301';
+    $dbname = 'bbdc';
     $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
     if(!$conn ) {

@@ -68,8 +68,8 @@
     <div class="modal-content justify-text">
         <h4 class="blue-text text-darken-4">CONTRIBUTE with BB Dataset Collection</h4>
 
-        <blockquote class='left-align red-text'>Note: You are redirected to official and optimized site -
-            <a href='http://52.89.235.173'>52.89.235.173</a>
+        <blockquote class='left-align red-text'>Note: You are redirected to official, secured and optimized site -
+            <a href='https://bbdc.abhishekjain.info/'>https://bbdc.abhishekjain.info/</a>
         </blockquote>
 
         <p> A BBDC is collecting the Dataset to make the machines smarter and better
