@@ -6,10 +6,10 @@
  * Time: 4:21 PM
  */
 
-    $dbhost = 'localhost';
-    $dbuser = 'root';
-    $dbpass = 'Paa@0301';
-    $dbname = 'bbdc';
+    $dbhost = '';
+    $dbuser = '';
+    $dbpass = '';
+    $dbname = '';
     $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
     if(!$conn ) {
