@@ -1,0 +1,5 @@
+"What is the average salary of a Electrical Engineering student post graduation ?",
+"What is the highest salary obtained by a Electrical Engineering student ?",
+"What are the packages the Electrical Engineering students get after graduation ?",
+"What is the starting salary of the Electrical Engineering students after graduation ?",
+"Package available in Electrical Engineering Department?",

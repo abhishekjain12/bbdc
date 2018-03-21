@@ -1,0 +1,7 @@
+"How much the fees for ACPC student?",
+"How much we have to pay for tuition?",
+"What is the fees structure for ACPC selected student?",
+"What is the fees structure for ACPC student?",
+"Tell me the fees for ACPC student.",
+"Can you tell me the fees structure for ACPC admitted student?",
+"What Is the Fees as for ACPC Student?",

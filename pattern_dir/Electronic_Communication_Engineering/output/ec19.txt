@@ -1,0 +1,5 @@
+"Number of seats for D2d Students in EC Deparment?",
+"seats available for diploma students in EC Deparment?",
+"Seats for  D2d students in EC Deparment?",
+"Total seats for d2d students in EC Deparment?",
+"D2D students seats in EC Deparment?",

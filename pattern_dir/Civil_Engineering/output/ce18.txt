@@ -1,0 +1,5 @@
+"Sex ratio in Civil engineering department?",
+"How many boys and girls are there in civil engineering?",
+"Girl Boy ratio in civil engineering?",
+"How many girls are there in civil engineering?",
+"Is civil engineering suitable for girls?",

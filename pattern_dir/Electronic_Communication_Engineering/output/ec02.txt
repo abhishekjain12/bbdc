@@ -1,0 +1,8 @@
+"Cutoff criteria for ACPC in EC?",
+"Is there a management quota in EC?",
+"Minimum marks required to take admission in management quota in EC department?",
+"How many ACPC seats are there in the Electronic Engineering department?",
+"How many MQ seats are there in the Electronic  Engineering department?",
+"Number of ACPC and Management Quota seats in the Electronic Engineering department?",
+"Tell me the number of seats in ACPC and MQ for Electronic Engineering department?",
+"What is the number of seats available in management quota for Electronic Engineering department?",

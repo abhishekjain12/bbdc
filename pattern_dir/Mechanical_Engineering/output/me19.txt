@@ -1,0 +1,3 @@
+"How many seats vacant for D2D students in Mechanical departement?",
+"Number of seats for D2D students  in Mechanical departement?",
+"How many seats are available for D2D students out of total students in class  in Mechanical departement?",

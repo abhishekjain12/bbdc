@@ -1,0 +1,5 @@
+"What is the campus placement percentage for Computer Engineering ?",
+"What is the campus recruitment percentage for Computer Engineering ?",
+"How many students got placed from Computer Engineering ?",
+"How many students got jobs from Computer Engineering ?",
+"Jobs available in Computer science department?",

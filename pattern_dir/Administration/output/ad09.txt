@@ -1,0 +1,5 @@
+"How many rooms are there in boys hostel?",
+"Number of rooms in boys hostel.",
+"What is the total number of rooms available in boys hostel?",
+"Tell me the total number of rooms are there in boys hostel.",
+"How many rooms are available in boys hostel?",

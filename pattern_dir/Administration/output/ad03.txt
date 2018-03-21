@@ -1,0 +1,5 @@
+"How much pay for security deposit?",
+"How much we have to pay for Security deposit?",
+"What amount for security deposit we have pay?",
+"Tell me the sum of security deposit.",
+"For security deposit, how much we have to pay?",

@@ -1,0 +1,7 @@
+"",
+"How many companies visit the campus to offer jobs to CSE students ?",
+"Which companies offer jobs to CSE students ?",
+"Tell me about companies recruiting CSE students ?",
+"Give me the list of companies coming for CSE students",
+"Which companies offer jobs in Computer science",
+"Companies which specially comes for CSE students",

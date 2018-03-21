@@ -1,0 +1,7 @@
+"",
+"What are the lab facilities for CSE students ?",
+"Tell me about the lab facilities for CSE students ?",
+"How are the lab facilities for CSE students ?",
+"Is an Apple Lab available to students ?",
+"Is VR/AR Lab available for students ?",
+"Is IoT Lab available for students ?",

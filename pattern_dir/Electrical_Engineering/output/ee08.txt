@@ -1,0 +1,5 @@
+"How many faculties are there in Electrical Engineering department ?",
+"How many teachers are there in Electrical Engineering department ?",
+"Number of teachers in Electrical Engineering department ?",
+"Number of faculties in Electrical Engineering department ?",
+"Number of Staff in Electrical Engineering Department ?",

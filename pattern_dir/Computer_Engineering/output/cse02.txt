@@ -1,0 +1,6 @@
+"How many ACPC seats are there in the Computer Engineering department ?",
+"How many MQ seats are there in the Computer Engineering department ?",
+"Number of ACPC and Management Quota seats in the Computer Engineering department ?",
+"Tell me the number of seats in ACPC and MQ for Computer Engineering department ?",
+"How many seats are available for management quota in Computer Engineering department?",
+"What are the number of seats available in management quota for computer engineering department?",

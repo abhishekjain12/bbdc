@@ -1,0 +1,5 @@
+"What syllabus is followed by the Electrical Engineering Department ?",
+"Syllabus for Electrical Engineering students ?",
+"Electrical Engineering syllabus ?",
+"What syllabus is followed for Electrical Engineering students ?",
+"Student has to follow which syllabus in Electrical Engineering  department?",

@@ -1,0 +1,5 @@
+"How many classes are there in civil engineering?",
+"Tell me the number of classes for the Civil department.",
+"How many divisions are there in the Civil department?",
+"Numbers of classes in civil engineering?",
+"Total classes in civil engineering department?",

@@ -1,0 +1,3 @@
+"",
+"What are the configuration of PC's provided for CSE students ?",
+"What type of computers are provided to computer students in the labs ?",

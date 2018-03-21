@@ -1,0 +1,6 @@
+"",
+"What are the extra activities for CSE students ?",
+"Are there any co-cirricular activities for CSE students ?",
+"Tell me about extra activities for CSE students ?",
+"Any activity apart from curricular work for CSE students ?",
+"Can we do ragging of other students?",

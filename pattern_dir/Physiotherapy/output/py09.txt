@@ -1,0 +1,2 @@
+"What about Labs in Physiotherapy?",
+"Number of labs available in Physiotherapy Department ?",

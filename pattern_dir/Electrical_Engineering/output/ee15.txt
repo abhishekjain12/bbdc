@@ -1,0 +1,5 @@
+"What is the class strength in the Electrical Engineering Department ?",
+"Students per class in the Electrical Engineering Department ?",
+"How many students does every class in Electrical Engineering department have ?",
+"What is the student strength in every electrical engineering department class",
+"Student class ratio in Electrical Engineering Department ?",

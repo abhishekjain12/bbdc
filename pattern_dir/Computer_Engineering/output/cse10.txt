@@ -1,0 +1,6 @@
+"",
+"How many number of labs are there in the CSE department ?",
+"Number of labs in the CSE department.",
+"The CSE department has how many lab ?",
+"Labs available for computer science students?",
+"Total Labs for computer department?",

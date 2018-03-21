@@ -1,0 +1,5 @@
+"Sex ratio in EC engineering ?",
+"How many boys and girls are there in EC?",
+"Girl Boy ratio in EC?",
+"How many girls are there in EC?",
+"Is EC suitable for girls?",

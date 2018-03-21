@@ -1,0 +1,8 @@
+"What is daily timing for EC?",
+"At what time college starts and ends for Electronic department?",
+"What's the timing of EC department?",
+"Morning to evening timings of EC?",
+"What is the college reporting time for EC department?",
+"What is the college closing time for EC department?",
+"When does the first lecture start for EC department?",
+"When does the last lecture end for EC department?",

@@ -1,0 +1,2 @@
+"Number of faculties available in Pharmacy department?",
+"Faculty staff in Pharmacy department?",

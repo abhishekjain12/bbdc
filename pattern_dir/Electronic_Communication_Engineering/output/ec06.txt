@@ -1,0 +1,6 @@
+"What type of companies arrives in placements in EC department?",
+"On what basis the company give jobs to students having a degree in EC engineering?",
+"How many companies visit the campus to offer jobs to EC students?",
+"Which companies offer jobs to EC students?",
+"Tell me about companies recruiting EC students ?",
+"Give me the list of companies coming for EC students?",

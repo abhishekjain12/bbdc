@@ -1,0 +1,5 @@
+"How many faculties are there in Civil Engineering department?",
+"How many teachers are there in Civil Engineering department?",
+"Number of teachers in Civil Engineering department?",
+"Number of faculties in Civil Engineering department?",
+"Number of Staff in Civil Engineering Department?",

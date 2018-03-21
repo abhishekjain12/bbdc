@@ -1,0 +1,6 @@
+"What is the campus placement percentage for Mechanical Engineering ?",
+"What is the campus recruitment percentage for Mechanical  Engineering ?",
+"How many students got placed from Mechanical  Engineering ?",
+"How many students got jobs from Mechanical  Engineering ?",
+"What is percentage rate of Mechanical students placed after completing degree?",
+"Which companies do visit the campus for mechanical engineering branch and is there any pool campus ?",

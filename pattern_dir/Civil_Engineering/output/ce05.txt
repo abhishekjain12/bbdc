@@ -1,0 +1,6 @@
+"What is the campus placement percentage for Civil Engineering ?",
+"What is the campus recruitment percentage for Civil  Engineering ?",
+"How many students got placed from Civil  Engineering ?",
+"How many students got jobs from Civil Engineering ?",
+"What is percentage rate of Civil students placed after completing degree?",
+"How many core companies visit campus for civil engineering students?",

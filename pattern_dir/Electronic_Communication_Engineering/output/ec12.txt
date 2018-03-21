@@ -1,0 +1,5 @@
+"What are the extra activities for EC students ?",
+"Are there any co-cirricular activities for EC students ?",
+"Tell me about extra activities for EC students ?",
+"Any activity apart from curricular work for EC students ?",
+"Can we do ragging of other students?",

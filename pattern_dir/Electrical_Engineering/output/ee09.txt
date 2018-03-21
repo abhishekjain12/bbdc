@@ -1,0 +1,5 @@
+"Number of labs in Electrical Engineering Department ?",
+"How many labs are there in Electrical Engineering Department ?",
+"Number of labs available in Electrical Engineering Department?",
+"Electrical Engineering Department labs?",
+"Labs in Electrical Engineering Department?",

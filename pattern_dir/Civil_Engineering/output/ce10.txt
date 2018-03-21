@@ -1,0 +1,5 @@
+"What are the instruments available in the labs of Civil Engineering Department?",
+"Type of instruments available in the labs of Civil Engineering Department?",
+"Availability of instruments in Civil Engineering?",
+"Number of instruments you provide in Civil labs?",
+"What type of instruments you provide in Civil engineering labs?",

@@ -1,0 +1,3 @@
+"",
+"Number of labs available in Pharmacy Department ?",
+"What about Labs in Pharmacy?",

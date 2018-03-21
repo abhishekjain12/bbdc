@@ -1,0 +1,5 @@
+"How many shifts are there for Electrical Engineering department ?",
+"Are there different shifts in Electrical Engineering department ?",
+"Tell me the different shifts available for Electrical Engineering department ?",
+"Shifts in Electrical Engineering department ?",
+"Shifts available in Electrical Engineering Department?",

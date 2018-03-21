@@ -1,0 +1,6 @@
+"",
+"How many faculty members are there in the CSE department ?",
+"Number of teachers in the CSE department ?",
+"Tell me about the faculty members in the CSe department.",
+"Staff available in Computer science?",
+"Teacher student ratio in college?",

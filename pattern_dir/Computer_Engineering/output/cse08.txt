@@ -1,0 +1,7 @@
+"",
+"What are the salary packages the CSE students are offered ?",
+"What is the average salary for a CSE student ?",
+"Tell me about the salary package for CSE student ?",
+"How are the packages offered to CSE students ?",
+"Packages available for Computer science?",
+"Highest package offered to cse students",

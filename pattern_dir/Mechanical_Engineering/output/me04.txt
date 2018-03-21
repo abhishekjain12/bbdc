@@ -1,0 +1,5 @@
+"What are the college timings for Mechanical?",
+"What is the college reporting time for Mechanical ?",
+"What is the college closing time for Mechanical?",
+"When does the first lecture start for Mechanical ?",
+"When does the last lecture end for Mechanical ?",

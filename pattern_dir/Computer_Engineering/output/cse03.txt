@@ -1,0 +1,5 @@
+"What are the different shift for CSE students ?",
+"Are there different shifts for CSE students ?",
+"Shifts available in CSE Department?",
+"What about shifts in Computer science department?",
+"How many shifts are available in CSE Department?",

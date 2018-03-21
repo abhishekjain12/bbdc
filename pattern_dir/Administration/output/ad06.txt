@@ -1,0 +1,5 @@
+"Under which university your college is?",
+"With which university college is affiliated?",
+"With which university your college is tied up?",
+"Tell the name of university with which the college is tied up?",
+"Tell me the university name.",

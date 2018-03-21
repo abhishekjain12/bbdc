@@ -1,0 +1,5 @@
+"What is the student strength in every EC class?",
+"How many students are there in every EC class?",
+"Number of students per class in EC department ?",
+"What is the teacher to student ratio in an EC class?",
+"Students Class ratio in EC Department?",

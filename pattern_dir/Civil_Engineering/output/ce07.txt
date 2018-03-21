@@ -1,0 +1,5 @@
+"What is the average salary of a Civil Engineering student post graduation ?",
+"What is the highest salary obtained by a Civil Engineering student ?",
+"What are the packages the Civil Engineering students get after graduation ?",
+"What is the starting salary of the Civil Engineering students after graduation ?",
+"How much package did civil engineers in your campus?",
